@@ -1,4 +1,4 @@
-# Stockline / Harvard CS50P Final Project
+# Stockline
 #### Video Demo:  <https://youtu.be/oE_DA2k2iC0>
 #### Description: CLI asset tracker and stock/currency calculator written in Python 3.11
 Stockline is a command line tool written in Python 3.11 for the purpose of calculating stock prices, converting currencies, creating a watchlist using SQL database that allows you to check your portfolio and net worth at any given time.
